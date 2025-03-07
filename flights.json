@@ -1,0 +1,17 @@
+[
+    {
+        "flight_number": "SA123",
+        "cost": 500,
+        "destination": "South Africa"
+    },
+    {
+        "flight_number": "UA456",
+        "cost": 700,
+        "destination": "USA"
+    },
+    {
+        "flight_number": "FR789",
+        "cost": 650,
+        "destination": "France"
+    }
+]
