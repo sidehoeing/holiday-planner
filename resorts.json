@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Cape Town Beach Resort",
+        "location": "South Africa",
+        "rating": 4.5,
+        "features": ["Beachfront", "Pool", "Free WiFi"]
+    },
+    {
+        "name": "Kruger Safari Lodge",
+        "location": "South Africa",
+        "rating": 4.8,
+        "features": ["Safari", "All-inclusive", "Guided Tours"]
+    },
+    {
+        "name": "Disneyland Resort",
+        "location": "USA",
+        "rating": 4.7,
+        "features": ["Theme Park", "Family-friendly", "Pool"]
+    }
+]
